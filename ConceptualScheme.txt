@@ -57,3 +57,5 @@ FIELD ART
 	The Inhibition-Painting
 	The Archives-Painting
 	The Catalogue-Painting
+	The Remorse-Painting
+	The Restoration-Painting
