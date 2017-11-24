@@ -7,7 +7,6 @@
 * In the end, you will not only have complete lists of all textual productions, and eventually visual and audio/sound/musical productions as well, but you will actually have a repository, a kind of database if you will, of each of the actual individual works, for your viewing pleasure;
 * Please stay tuned... (and no, unfortunately none of it will be released into the Public Domain. It will ALL remain All Rights Reserved, A.G. (c) 2016 until further notice).
 
-## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
-[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
-(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
